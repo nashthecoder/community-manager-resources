@@ -4,3 +4,6 @@
 
 ### Example of Intro README.md
 <img width="987" alt="Screenshot 2023-06-28 at 18 12 21" src="https://github.com/nashthecoder/community-manager-resources/assets/15178823/b446a929-d631-41e0-9330-0eb7a805815b">
+
+### Repo Tags
+[How to read and interpret labels](https://github.com/hackforla/website/wiki/How-to-read-and-interpret-labels)
